@@ -1,0 +1,21 @@
+        Controllers to do
+        
+        User controller: This controller will handle user authentication, registration, and profile management. It will also handle user's preferences and dietary      restrictions.
+
+        Recipe controller: This controller will handle all the recipe-related functionality, such as searching for recipes, viewing recipe details, creating and        editing recipes, and managing user's favorite recipes.
+
+        Meal controller: This controller will handle all the meal-related functionality, such as creating meal plans, generating grocery lists, scheduling meals, and tracking meals made by the user.
+
+        Shopping List controller: This controller will handle the shopping list functionality, such as creating and editing a shopping list and checking off items as       they are purchased.
+
+        Nutritional controller: This controller will handle all the nutritional-related functionality, such as calculating nutritional information for recipes and      tracking nutrient intake.
+
+        Search controller: This controller will handle all the search-related functionality, such as searching for recipes based on ingredient, dietary restriction,        health goals, and meal time.
+
+        Random recipe controller: This controller will handle the random recipe generation functionality, such as generating random recipes based on user's         preferences and dietary restrictions.
+
+        Meal history controller: This controller will handle the meal history functionality, such as keeping track of the meals made by the user and the number of      times each recipe has been made.
+
+        Meal prep controller: This controller will handle the meal prep functionality, such as searching for recipes that are easy to prepare in advance and store      for later consumption.
+
+        Community controller: This controller will handle the community functionality, such as allowing users to share recipes, rate them, leave comments and join      recipe-sharing groups.
